@@ -2,9 +2,6 @@
 
 A pricing, segmentation, and behavioural analysis of Airbnb listings in Zurich.
 
-<p align="center"> <img src="zurich_banner_placeholder.png" width="90%"> </p>
-
-(I can generate a real banner if you want it in the same style as your Office project.)
 
 🌐 Overview
 
